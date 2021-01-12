@@ -1,0 +1,7 @@
+/home/robert/hello/build/CMakeFiles/install.dir
+/home/robert/hello/build/CMakeFiles/list_install_components.dir
+/home/robert/hello/build/CMakeFiles/rebuild_cache.dir
+/home/robert/hello/build/CMakeFiles/hello.dir
+/home/robert/hello/build/CMakeFiles/install/strip.dir
+/home/robert/hello/build/CMakeFiles/install/local.dir
+/home/robert/hello/build/CMakeFiles/edit_cache.dir
