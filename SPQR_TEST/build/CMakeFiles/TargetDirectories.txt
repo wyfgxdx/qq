@@ -1,0 +1,7 @@
+/home/robert/projects/SPQR_TEST/build/CMakeFiles/install.dir
+/home/robert/projects/SPQR_TEST/build/CMakeFiles/list_install_components.dir
+/home/robert/projects/SPQR_TEST/build/CMakeFiles/rebuild_cache.dir
+/home/robert/projects/SPQR_TEST/build/CMakeFiles/spqr_test.dir
+/home/robert/projects/SPQR_TEST/build/CMakeFiles/edit_cache.dir
+/home/robert/projects/SPQR_TEST/build/CMakeFiles/install/strip.dir
+/home/robert/projects/SPQR_TEST/build/CMakeFiles/install/local.dir

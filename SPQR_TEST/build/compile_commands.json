@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/robert/projects/SPQR_TEST/build",
+  "command": "/usr/bin/c++    -I/usr/include/eigen3 -I/home/robert/SuiteSparse-5.8.1/SPQR/Include -I/home/robert/SuiteSparse-5.8.1/CHOLMOD/Include -I/home/robert/SuiteSparse-5.8.1/include -I/home/robert/SuiteSparse-5.8.1  -g   -o CMakeFiles/spqr_test.dir/main.cpp.o -c /home/robert/projects/SPQR_TEST/main.cpp",
+  "file": "/home/robert/projects/SPQR_TEST/main.cpp"
+}
+]
